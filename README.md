@@ -1,0 +1,1 @@
+# NewMultiModuleProject2
